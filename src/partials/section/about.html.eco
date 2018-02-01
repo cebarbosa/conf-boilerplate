@@ -1,6 +1,42 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, choosing the right place, buying airplane tickets for speakers and many other things.</p>
+<p itemprop="description">The study of groups, clusters and the large scale structure of the universe has been the focus of attention of many researchers in the state of São Paulo. Aiming to promote the interaction among them and considering that several ongoing projects are funded by FAPESP, we are pleased to announce the <a href="http://www.spanet.iag.usp.br/"> SPAnet </a>Workshop on Clusters of Galaxies and the Large Scale Structure.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate" target="_blank">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org" target="_blank">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<p> This workshop has three main goals: </p>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate" target="_blank">repository on Github</a> for more details =D</p>
+<ul> 
+<li style="list-style-type:disc">  Improve the networking among researchers in the field, especially younger researchers </li>
+
+<li style="list-style-type:disc"> Disseminate the work that have been done in the field. </li>
+
+<li style="list-style-type:disc"> Discuss possible actions to boost the development and visibility of the field.</li>
+</ul>
+
+<h4> Contact </h4>
+
+<ul> 
+<li style="list-style-type:disc"> spanet.gc2018@gmail.com  </li>
+
+</ul>
+
+<p>  </p>
+
+<h4> SOC </h4>
+
+<ul> 
+<li style="list-style-type:disc"> Reinaldo de Carvalho (INPE)  </li>
+<li style="list-style-type:disc"> Hugo Capelato (Unicsul)  </li>
+<li style="list-style-type:disc"> Eduardo Cypriano (IAG)  </li>
+<li style="list-style-type:disc"> Flávia Sobreira (UNICAMP)  </li>
+
+</ul>
+
+<h4> LOC </h4>
+
+<ul> 
+<li style="list-style-type:disc"> Alberto Molino (IAG)  </li>
+<li style="list-style-type:disc"> Antonio Montero Dorta (IFUSP)  </li>
+<li style="list-style-type:disc"> Carlos Eduardo Barbosa (IAG)  </li>
+<li style="list-style-type:disc"> Marcus Costa Duarte (IAG)  </li>
+<li style="list-style-type:disc"> Laerte Sodré Jr. (IAG)  </li>
+</ul>
+
