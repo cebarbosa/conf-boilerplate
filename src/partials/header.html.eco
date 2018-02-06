@@ -7,10 +7,10 @@
 <!-- HEADER -->
 <header class="header">
   <div class="wrapper">
-    <h1 class="logo-name">
-      <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name"><%= @conf.name %></a>
-    </h1>
-    <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
+    <h1 class="logo-name" style="color:white"> SPAnet Workshop on Clusters of Galaxies and the Large-Scale Structure of the Universe </h1>
+    <p></p>
+    <h2 style="color:white"><%= @conf.date %></h2> 
+    <h2 style="color:white"><%= @conf.venue %>, <%= @conf.city %></h2>
 
     <% if @conf.price || @callToAction: %>
       <div class="call-action-area">

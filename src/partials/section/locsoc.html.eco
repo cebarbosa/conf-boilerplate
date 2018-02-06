@@ -1,7 +1,0 @@
-<h2 class="section-title"><%= @labels['locsoc'] %></h2>
-
-LOC: Alberto Molino (IAG), Antonio Montero Dorta (IFUSP), Carlos Eduardo
-Barbosa (IAG), Marcus Costa Duarte (IAG), Laerte Sodré Jr. (IAG)
-
-SOC: Reinaldo de Carvalho (INPE), Hugo Capelato (Unicsul), Eduardo Cypriano
-(IAG), Flávia Sobreira (UNICAMP)

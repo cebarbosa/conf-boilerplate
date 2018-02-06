@@ -1,0 +1,16 @@
+<h2 class="section-title"><%= @labels['participants'] %></h2>
+
+<div class="schedule-tbl">
+  <table>
+    <thead>
+      <tr>
+        <th class="schedule-description">Name (institution)</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="schedule-description">1) Carlos Eduardo Barbosa (IAG/USP)</td>
+    </tr>
+    </tbody>
+  </table>
+</div>

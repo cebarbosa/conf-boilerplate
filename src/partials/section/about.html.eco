@@ -11,32 +11,42 @@
 <li style="list-style-type:disc"> Discuss possible actions to boost the development and visibility of the field.</li>
 </ul>
 
-<h4> Contact </h4>
+<div class="schedule-tbl">
+  <table>
+    <thead>
+      <tr>
+        <th class="schedule-description"> SOC </th>
+        <th class="schedule-description"> LOC </th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td class="schedule-description">Reinaldo de Carvalho (INPE) </td>
+    <td class="schedule-description">Alberto Molino (IAG-USP)</td>
+    </tr>
+    <tr>
+    <td class="schedule-description">Hugo Capelato (Unicsul) </td>
+    <td class="schedule-description">Antonio Montero Dorta (IFUSP)</td>
+    </tr>
+        <tr>
+    <td class="schedule-description">Eduardo Cypriano (IAG-USP) </td>
+    <td class="schedule-description">Carlos Eduardo Barbosa (IAG-USP)</td>
+    </tr>
+    <tr>
+    <td class="schedule-description">Flávia Sobreira (UNICAMP) </td>
+    <td class="schedule-description">Marcus Costa Duarte (IAG-USP)</td>
+    </tr>
+    <tr>
+    <td class="schedule-description"> </td>
+    <td class="schedule-description">Laerte Sodré Jr. (IAG-USP) </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
 
-<ul> 
-<li style="list-style-type:disc"> spanet.gc2018@gmail.com  </li>
+<p></p>
 
-</ul>
+<h2 class="section-title"> Contact </h2>
 
-<p>  </p>
-
-<h4> SOC </h4>
-
-<ul> 
-<li style="list-style-type:disc"> Reinaldo de Carvalho (INPE)  </li>
-<li style="list-style-type:disc"> Hugo Capelato (Unicsul)  </li>
-<li style="list-style-type:disc"> Eduardo Cypriano (IAG)  </li>
-<li style="list-style-type:disc"> Flávia Sobreira (UNICAMP)  </li>
-
-</ul>
-
-<h4> LOC </h4>
-
-<ul> 
-<li style="list-style-type:disc"> Alberto Molino (IAG)  </li>
-<li style="list-style-type:disc"> Antonio Montero Dorta (IFUSP)  </li>
-<li style="list-style-type:disc"> Carlos Eduardo Barbosa (IAG)  </li>
-<li style="list-style-type:disc"> Marcus Costa Duarte (IAG)  </li>
-<li style="list-style-type:disc"> Laerte Sodré Jr. (IAG)  </li>
-</ul>
+<p> For any further clarifications, please send us a message: <h4> spanet.gc2018@gmail.com</h4>. </p>
 

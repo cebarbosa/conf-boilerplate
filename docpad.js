@@ -7,13 +7,13 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "SPAnet Workshop on Clusters of Galaxies",
+      name: "SPAnet Workshop on Clusters of Galaxies and the Large-Scale Structure of the Universe",
       description: "Joining astronomers in the State of Sao Paulo",
       date: "March 22, 2018",
       // If your event is free, just comment this line
-      // price: " ",
-      venue: "IAG- USP",
-      address: " Rua do Matão, 1226",
+      // price: "" ",
+      venue: "Instituto de Astronomia, Geofísica e Ciências Atmosféricas",
+      address: "Rua do Matão, 1226",
       city: "São Paulo",
       state: "São Paulo", 
       email: "spanet.gc2018@gmail.com"
@@ -45,8 +45,8 @@ module.exports = {
       'about',
       'location',
       'schedule',
+       "participants",
       "sponsors",
-      'funding'
     ],
 
     // Labels which you can translate to other languages
@@ -54,8 +54,8 @@ module.exports = {
       about: "About",
       location: "Location",
       schedule: "Schedule",
+        participants: "Participants",
       sponsors: "Funding",
-      contact: "Contact",
     },
 
     // The entire schedule
@@ -65,15 +65,15 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "Reinaldo de Carvalho",
-        company: "INPE",
+        name: "TBD",
+        company: "Institute",
         link: {
-          href: "http://twitter.com/linus",
+          href: "",
           text: "@linus"
         },
         presentation: {
-          title: "Reinaldo de Carvalho",
-          description: "Status of Extragalactic Astronomy in the State of Sao Paulo.",
+          title: "TDB",
+          description: "TBD",
           time: "10h00"
         }
       },
