@@ -11,12 +11,14 @@
     <p></p>
     <h2 style="color:white"><%= @conf.date %></h2> 
     <h2 style="color:white"><%= @conf.venue %>, <%= @conf.city %></h2>
-
+<p></p>
     <% if @conf.price || @callToAction: %>
       <div class="call-action-area">
         <% if @conf.price: %>
-          <span class="price">Free! <%= @conf.price %></span>
+          <span class="price"><%= @conf.price %></span>
         <% end %>
+<p></p>
+
 
         <% if @callToAction: %>
           <a href="<%= @callToAction.link %>" class="call-action-link" target="_blank" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
