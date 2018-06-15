@@ -246,20 +246,9 @@ module.exports = {
 	}
 	},
 
-{
-	name: "Marcus Vinicius Duarte",
-	company: "IAG/USP",
-	link: {href: "", text: "" },
-	presentation: {
-	title: "Marcus Vinicius Duarte",
-	description: "The galaxy environment in the KiDS survey",
-	time: "16h00 "
-	}
-	},
-
 	{
 	name : "Open discussion",
-	time: "16h20 "
+	time: "16h00 "
 	},
 
 	],
